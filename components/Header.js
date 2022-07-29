@@ -1,5 +1,6 @@
 
 const items = [
+    { icon: 'fab fa-youtube', link: 'https://www.youtube.com/channel/UCVcZc-iijHekEX0MAG81DEA' },
     { icon: 'fab fa-discord', link: 'https://discord.com/users/690503596386549790' },
     { icon: 'fab fa-github', link: 'https://github.com/WeatrixDeveloper' },
   ]
